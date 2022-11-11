@@ -1,2 +1,2 @@
-# Dental-Invenstory-System
+# Invenstory-System
 
